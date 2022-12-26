@@ -1,0 +1,30 @@
+{
+  "9221e84d-588f-46a0-87ee-ffa42dff357e": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1588/1.0.1588.2938/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://fundaciondonde.sharepoint.com/sites/desarrollo/BTE": {
+        "dataSources": {
+          "FormatoSolicitud": {
+            "tableName": "4ef33072-5ee3-4220-9f05-63ea85376585"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "FormatoSolicitud"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "9221e84d-588f-46a0-87ee-ffa42dff357e"
+  }
+}
