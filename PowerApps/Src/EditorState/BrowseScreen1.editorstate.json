@@ -272,7 +272,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%BrowseContainer.ID%",
       "Name": "BrowseGallery1",
-      "ParentIndex": 12,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -521,7 +521,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button1",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -780,7 +780,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon3",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1098,7 +1098,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon5",
-      "ParentIndex": 2,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1257,7 +1257,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon6",
-      "ParentIndex": 3,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1450,7 +1450,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneIconNewItem.ID%",
       "Name": "IconNewItem1",
-      "ParentIndex": 8,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1666,7 +1666,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneIconRefresh.ID%",
       "Name": "IconRefresh1",
-      "ParentIndex": 6,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1882,7 +1882,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneIconSortUpDown.ID%",
       "Name": "IconSortUpDown1",
-      "ParentIndex": 7,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2085,7 +2085,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblAppName.ID%",
       "Name": "LblAppName1",
-      "ParentIndex": 4,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2478,7 +2478,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle1",
-      "ParentIndex": 1,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2587,7 +2587,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneRectangle1.ID%",
       "Name": "Rectangle11",
-      "ParentIndex": 11,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2686,7 +2686,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneRectQuickActionBar.ID%",
       "Name": "RectQuickActionBar1",
-      "ParentIndex": 2,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2807,7 +2807,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneSearchIcon.ID%",
       "Name": "SearchIcon1",
-      "ParentIndex": 10,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3362,7 +3362,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneTextSearchBox.ID%",
       "Name": "TextSearchBox1",
-      "ParentIndex": 9,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
