@@ -175,16 +175,16 @@
             Y: =Parent.TemplateHeight - 1
             ZIndex: =5
 
-    Icon1 As icon.CalendarBlank:
-        Icon: =Icon.CalendarBlank
-        X: =4
-        Y: =708
+    Icon3 As icon.Lock:
+        Icon: =Icon.Lock
+        X: =202
+        Y: =588
         ZIndex: =10
 
-    Icon2 As icon.Calculator:
-        Icon: =Icon.Calculator
-        X: =388
-        Y: =737
+    Icon4 As icon.Blocked:
+        Icon: =Icon.Blocked
+        X: =262
+        Y: =715
         ZIndex: =11
 
     Button1 As button:
@@ -196,8 +196,20 @@
         Y: =920
         ZIndex: =12
 
+    Icon5 As icon.Notebook:
+        Icon: =Icon.Notebook
+        X: =185
+        Y: =651
+        ZIndex: =12
+
     Rectangle1 As rectangle:
         X: =433
         Y: =553
+        ZIndex: =13
+
+    Icon6 As icon.clearDrawing:
+        Icon: =Icon.ClearDrawing
+        X: =40
+        Y: =40
         ZIndex: =13
 
