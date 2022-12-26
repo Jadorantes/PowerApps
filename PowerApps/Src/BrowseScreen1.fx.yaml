@@ -193,9 +193,23 @@
         Y: =651
         ZIndex: =12
 
+    Button1 As button:
+        Height: =70
+        Size: =24
+        Text: ="Botón"
+        Width: =280
+        X: =68
+        Y: =920
+        ZIndex: =12
+
     Icon6 As icon.clearDrawing:
         Icon: =Icon.ClearDrawing
         X: =40
         Y: =40
+        ZIndex: =13
+
+    Rectangle1 As rectangle:
+        X: =433
+        Y: =553
         ZIndex: =13
 
