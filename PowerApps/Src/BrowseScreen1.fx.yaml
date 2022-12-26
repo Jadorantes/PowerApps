@@ -187,3 +187,17 @@
         Y: =737
         ZIndex: =11
 
+    Button1 As button:
+        Height: =70
+        Size: =24
+        Text: ="Botón"
+        Width: =280
+        X: =68
+        Y: =920
+        ZIndex: =12
+
+    Rectangle1 As rectangle:
+        X: =433
+        Y: =553
+        ZIndex: =13
+
